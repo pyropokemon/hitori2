@@ -29,7 +29,7 @@ global.my = {
 	yt: 'https://youtube.com/',
 	gh: 'https://github.com/pyropokemon',
 	gc: 'https://chat.whatsapp.com/K8XO4Lh2NCBBhEqbCnepkf',
-	ch: '120363250409960161@newsletter',
+	ch: 'https://chat.whatsapp.com/K8XO4Lh2NCBBhEqbCnepkf',
 }
 
 global.limit = {
