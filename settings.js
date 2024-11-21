@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['6281326753887']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'Alexanderr'
+global.botname = 'Scyther MD'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -26,15 +26,15 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	yt: 'https://youtube.com/',
+	gh: 'https://github.com/pyropokemon',
+	gc: 'https://chat.whatsapp.com/K8XO4Lh2NCBBhEqbCnepkf',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
-	free: 100,
-	premium: 999,
+	free: 50,
+	premium: 1000,
 	vip: 'VIP'
 }
 
